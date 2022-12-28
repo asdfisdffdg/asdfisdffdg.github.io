@@ -4,14 +4,14 @@
 		"https://w3id.org/security/v1"
 	],
 
-	"id": "https://asdfisdffdg.github.io/actor",
+	"id": "https://asdfisdffdg.github.io/actor.json",
 	"type": "Person",
 	"preferredUsername": "foobar",
 	"inbox": "https://asdfisdffdg.github.io/inbox",
 
 	"publicKey": {
-		"id": "https://asdfisdffdg.github.io/actor#main-key",
-		"owner": "https://asdfisdffdg.github.io/actor",
+		"id": "https://asdfisdffdg.github.io/actor.json#main-key",
+		"owner": "https://asdfisdffdg.github.io/actor.json",
 		"publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx8VGy6YTm8N47LfirvED\nx6Ua/WySCGW/VHdvQVRZjkGB2ZMQZUN1was65xwMzzj3XsMmvyYZ6nuLdqVHsId1\nDOEkufSwhMBsL8Z//bMVTAsYbGBc+htajvGji+m5S87XsCCLJ0w7qoUDzpZHrwNv\nR4/L6zpGNfsVu3U9zBMv7zNLBdjk5+VUY6K9MRwMKJAO8j2g6JM4ElUqR2xIqkrt\n8OiHR8rdhObbftm4bMG/RRFJ4rZ7jjjhM2kVbx4TgvTG24kfXAodGKdzP5PCmt8i\n/hWKlyZi8EGyzDQLyD5/uJ2/5RLQx0xcfrcLDdf2gtu+6M7K+h0YbJKyzenazPmu\ncwIDAQAB\n-----END PUBLIC KEY-----\n"
 	}
 }
