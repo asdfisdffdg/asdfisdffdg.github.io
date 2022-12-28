@@ -1,0 +1,11 @@
+{
+	"@context": "https://www.w3.org/ns/activitystreams",
+	"id": "https://asdfisdffdg.github.io/message3.json",
+	"type": "Note",
+	"published": "2022-12-28T04:33:51.085Z",
+	"url": "https://asdfisdffdg.github.io/message3.json",
+	"attributedTo": "https://mastodon.social/users/Gargron",
+	"to": "https://www.w3.org/ns/activitystreams#Public",
+	"sensitive": false,
+	"content": "<p>hmm</p>"
+}
