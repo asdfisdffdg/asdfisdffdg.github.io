@@ -1,11 +1,12 @@
 {
 	"@context": "https://www.w3.org/ns/activitystreams",
-	"id": "https://asdfisdffdg.github.io/message.json",
+	"id": "https://asdfisdffdg.github.io/message2.json",
 	"type": "Note",
 	"published": "2022-12-28T03:08:22.080Z",
-	"url": "https://asdfisdffdg.github.io/message.json",
+	"url": "https://asdfisdffdg.github.io/message2.json",
 	"attributedTo": "https://asdfisdffdg.github.io/actor.json",
 	"to": "https://www.w3.org/ns/activitystreams#Public",
+	"inReplyTo": "https://mastodon.social/@Gargron/100254678717223630",
 	"sensitive": false,
-	"content": "<p>foo bar</p>"
+	"content": "<p>meow meow</p>"
 }
