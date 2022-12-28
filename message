@@ -1,0 +1,11 @@
+{
+	"@context": "https://www.w3.org/ns/activitystreams",
+	"id": "https://asdfisdffdg.github.io/message",
+	"type": "Note",
+	"published": "2022-12-28T03:08:22.080Z",
+	"url": "https://asdfisdffdg.github.io/message",
+	"attributedTo": "https://asdfisdffdg.github.io/actor",
+	"to": ["https://www.w3.org/ns/activitystreams#Public"],
+	"sensitive": false,
+	"content": "<p>foo bar</p>"
+}

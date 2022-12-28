@@ -1,0 +1,10 @@
+{
+	"subject": "acct:foobar@asdfisdffdg.github.io",
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://asdfisdffdg.github.io/actor"
+		}
+	]
+}
